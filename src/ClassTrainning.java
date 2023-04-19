@@ -20,8 +20,3 @@ class Book {
     public String isbn;
     public double price;
 }
-
-class Animal {
-    public String name;
-    public String type;
-}
